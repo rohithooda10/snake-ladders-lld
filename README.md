@@ -36,7 +36,7 @@ git clone https://github.com/your-username/snake-and-ladder.git
 2. Compile the code.
 
 ```bash
-cd snake-and-ladder
+cd snake-and-ladder-lld
 make
 ```
 
