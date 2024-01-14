@@ -58,4 +58,3 @@ Feel free to contribute to the project by submitting pull requests or opening is
 ## License
 
 This Snake and Ladder game is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
-```
